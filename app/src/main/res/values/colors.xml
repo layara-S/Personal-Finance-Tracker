@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme colors -->
+    <color name="primary">#5271FF</color> <!-- bright blue -->
+    <color name="primary_dark">#004AAD</color> <!-- darker blue variant for depth -->
+    <color name="primary_light">#80A8FF</color> <!-- lighter tint for highlights -->
+    <color name="accent">#5E8C91</color> <!-- teal-blue accent that complements the primary -->
+    <color name="accent_dark">#3F6A6E</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#33302E</color> <!-- slightly warmer dark text -->
+    <color name="text_secondary">#6D6A67</color> <!-- warm gray for secondary text -->
+    <color name="text_hint">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Background colors -->
+    <color name="backgroundclr">#FEF9F5</color> <!-- very subtle warm tint -->
+    <color name="background">#FEF9F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#F2E8E0</color> <!-- warm divider color -->
+
+    <!-- Status colors -->
+    <color name="success">#7BAF76</color> <!-- warmer green -->
+    <color name="warning">#E6B55C</color> <!-- warm amber -->
+    <color name="error">#D9796B</color> <!-- warmer red -->
+    <color name="info">#6A9EC0</color> <!-- warmer blue -->
+
+    <!-- Transaction colors -->
+    <color name="income">#7BAF76</color> <!-- warmer green -->
+    <color name="expense">#D9796B</color> <!-- warmer red -->
+
+    <!-- Budget status colors -->
+    <color name="budget_good">#7BAF76</color>
+    <color name="budget_warning">#E6B55C</color>
+    <color name="budget_exceeded">#D9796B</color>
+
+    <!-- Chart colors - warm, harmonious palette -->
+    <color name="chart_color_1">#DCA06D</color> <!-- primary -->
+    <color name="chart_color_2">#5E8C91</color> <!-- accent -->
+    <color name="chart_color_3">#A67F5D</color> <!-- darker brown -->
+    <color name="chart_color_4">#7BAF76</color> <!-- sage green -->
+    <color name="chart_color_5">#E6B55C</color> <!-- golden amber -->
+    <color name="chart_color_6">#9A7197</color> <!-- muted purple -->
+    <color name="chart_color_7">#D9796B</color> <!-- terracotta -->
+    <color name="chart_color_8">#6A9EC0</color> <!-- dusty blue -->
+
+    <!-- Category colors (for visual identification) - warm, earthy palette -->
+    <color name="category_food">#7BAF76</color> <!-- sage green -->
+    <color name="category_transport">#6A9EC0</color> <!-- dusty blue -->
+    <color name="category_bills">#D9796B</color> <!-- terracotta -->
+    <color name="category_entertainment">#9A7197</color> <!-- muted purple -->
+    <color name="category_shopping">#E6B55C</color> <!-- golden amber -->
+    <color name="category_health">#5E8C91</color> <!-- teal-blue -->
+    <color name="category_education">#8C7291</color> <!-- muted lavender -->
+    <color name="category_housing">#A67F5D</color> <!-- darker brown -->
+    <color name="category_other">#7D8E95</color> <!-- warm gray-blue -->
+
+    <!-- Night mode / Dark theme colors -->
+    <color name="night_primary">#C48E5F</color> <!-- slightly darker primary for night mode -->
+    <color name="night_background">#1F1D1B</color> <!-- warm dark background -->
+    <color name="night_surface">#2D2A27</color> <!-- warm dark surface -->
+    <color name="night_text_primary">#F5F5F5</color>
+    <color name="night_text_secondary">#CCBFB8</color> <!-- warm white -->
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="category_filters">
+        <item>All Categories</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Bills</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Housing</item>
+        <item>Other</item>
+    </string-array>
+</resources>
